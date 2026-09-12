@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "\u041B\u0435\u0432",
+    "Weight": 200,
+    "FoodWeight": 10,
+    "FoodType": "\u043C\u044F\u0441\u043E"
+  },
+  {
+    "Name": "\u0422\u0438\u0433\u0440",
+    "Weight": 250,
+    "FoodWeight": 15,
+    "FoodType": "\u043C\u044F\u0441\u043E"
+  },
+  {
+    "Name": "\u0421\u043B\u043E\u043D",
+    "Weight": 4000,
+    "FoodWeight": 150,
+    "FoodType": "\u0442\u0440\u0430\u0432\u0430"
+  },
+  {
+    "Name": "\u0417\u0430\u044F\u0446",
+    "Weight": 5,
+    "FoodWeight": 1.5,
+    "FoodType": "\u0442\u0440\u0430\u0432\u0430"
+  },
+  {
+    "Name": "\u0412\u043E\u043B\u043A",
+    "Weight": 50,
+    "FoodWeight": 5,
+    "FoodType": "\u043C\u044F\u0441\u043E"
+  },
+  {
+    "Name": "\u041A\u043E\u0440\u043E\u0432\u0430",
+    "Weight": 500,
+    "FoodWeight": 20,
+    "FoodType": "\u0442\u0440\u0430\u0432\u0430"
+  }
+]
